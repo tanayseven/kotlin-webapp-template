@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.kotest:kotest-assertions-shared-jvm:5.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-shared-jvm/5.0.3/d8441eb0c761e40f343cb35075be4eab6da5d109/kotest-assertions-shared-jvm-5.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-shared-jvm/5.0.3/aacf57f2e5eb8666fd659f79f9027186b620bfb/kotest-assertions-shared-jvm-5.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

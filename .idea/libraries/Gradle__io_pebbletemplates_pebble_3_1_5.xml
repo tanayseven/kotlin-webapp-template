@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.pebbletemplates:pebble:3.1.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pebbletemplates/pebble/3.1.5/bc7d795cef5281a4f75d00df2607d78de0ae4bc/pebble-3.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pebbletemplates/pebble/3.1.5/f1e8e30d5f50376887757662687bfd77d06993a6/pebble-3.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

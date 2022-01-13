@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.kotest:kotest-framework-discovery-jvm:5.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kotest/kotest-framework-discovery-jvm/5.0.3/29e084283194c5472ec943edc0ca731802ee0b84/kotest-framework-discovery-jvm-5.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kotest/kotest-framework-discovery-jvm/5.0.3/a12387bb889ea14f60f6aaf2380f1fe35ef8f339/kotest-framework-discovery-jvm-5.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

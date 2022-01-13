@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-pebble:1.6.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-pebble/1.6.7/32df35a828cbab6b4247113c949330913e2179cf/ktor-pebble-jvm-1.6.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-pebble/1.6.7/b6e912c044af962e85f3838dc5c5276cadfc3daa/ktor-pebble-1.6.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
