@@ -49,6 +49,8 @@
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.0/baf82c475e9372c25407f3d132439e4aa803b8b8/kotlin-stdlib-jdk8-1.6.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/30.1.1-jre/87e0fd1df874ea3cbe577702fe6f17068b790fd8/guava-30.1.1-jre.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.6/b09efa852337fa0dd9859614389eec58dc287116/logback-classic-1.2.6.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ktorm/ktorm-core/3.2.0/118f74313dd6cb39be16f986c0d14b8c030f8d30/ktorm-core-3.2.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.postgresql/postgresql/42.2.6/58586d617d57746853fc0b8f37c83a8384fcd0ca/postgresql-42.2.6.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test/1.6.10/59bace81228ddb06ac0dc81bd3a554bb19799715/kotlin-test-1.6.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit5/1.6.10/ac298c1dd35e85cb80a5a7c6ecdc2625fb88a1f5/kotlin-test-junit5-1.6.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.0/da6bdc87391322974a43ccc00a25536ae74dad51/kotlin-stdlib-jdk7-1.6.0.jar</arg>
@@ -160,6 +162,8 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.guava:guava:30.1.1-jre" level="project" />
     <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.2.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.ktorm:ktorm-core:3.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.postgresql:postgresql:42.2.6" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-test:1.6.10" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.6.10" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.0" level="project" />

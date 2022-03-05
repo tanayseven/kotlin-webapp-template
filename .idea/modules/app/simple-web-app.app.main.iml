@@ -28,6 +28,8 @@
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.0/baf82c475e9372c25407f3d132439e4aa803b8b8/kotlin-stdlib-jdk8-1.6.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/30.1.1-jre/87e0fd1df874ea3cbe577702fe6f17068b790fd8/guava-30.1.1-jre.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.5/30e0c3932f24fb10e7851dd308a3ad14e570d60/logback-classic-1.2.5.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ktorm/ktorm-core/3.2.0/118f74313dd6cb39be16f986c0d14b8c030f8d30/ktorm-core-3.2.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.postgresql/postgresql/42.2.6/58586d617d57746853fc0b8f37c83a8384fcd0ca/postgresql-42.2.6.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.0/da6bdc87391322974a43ccc00a25536ae74dad51/kotlin-stdlib-jdk7-1.6.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.6.0/a215a7f914d5916dc5fd2d45cea16524e0220203/kotlin-reflect-1.6.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-jvm/1.3.0/4034c95d41b81a781fe153fc02907dda42eaee6/kotlinx-serialization-json-jvm-1.3.0.jar</arg>
@@ -108,6 +110,8 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.guava:guava:30.1.1-jre" level="project" />
     <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.2.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.ktorm:ktorm-core:3.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.postgresql:postgresql:42.2.6" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.0" level="project" />
     <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.32" level="project" />
